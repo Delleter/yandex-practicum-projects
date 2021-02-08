@@ -7,3 +7,6 @@
 
 # Используемые библиотеки
 pandas, NumPy, seaborn, scikit-learn, LightGBM, CatBoost
+
+# Статус проекта
+Завершен
